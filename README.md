@@ -1,4 +1,4 @@
-# Dashboard
+# Civision-Dashboard
 
 Welcome to the **Dashboard** project! This interactive dashboard is built to deliver an intuitive user experience, display automatically updated data based on Json file content, and ensure easy navigation for clients.
 
